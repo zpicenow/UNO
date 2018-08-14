@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/uno_back.png</file>
+        <file>img/uno_card.png</file>
+        <file>img/register.jpg</file>
+        <file>img/clockwise.png</file>
+        <file>img/robot1.png</file>
+        <file>img/robot2.png</file>
+        <file>img/robot3.png</file>
+        <file>img/user.png</file>
+        <file>img/uno_help.gif</file>
+        <file>img/await5.png</file>
+    </qresource>
+</RCC>
